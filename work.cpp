@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(){
+stiring main(){
     int a, b;
     cin >> a;
     cin >> b;
