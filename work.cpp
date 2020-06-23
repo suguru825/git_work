@@ -3,8 +3,8 @@
 
 using namespace std;
 
-stiring main(){
-    int a, b;
+int main(){
+    stiring a, b;
     cin >> a;
     cin >> b;
     cout << a+b << endl;
